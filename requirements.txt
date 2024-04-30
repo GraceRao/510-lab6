@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+python-dotenv
+st-annotated-text
+requests
+beautifulsoup4
+google-generativeai
